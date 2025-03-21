@@ -1,0 +1,13 @@
+c:\users\truongvy\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\bin\Debug\NguyenVyTruong_QLTG.exe.config
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\bin\Debug\NguyenVyTruong_QLTG.exe
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\bin\Debug\NguyenVyTruong_QLTG.pdb
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\bin\Debug\Oracle.DataAccess.dll
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.csprojResolveAssemblyReference.cache
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.Form1.resources
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.Form2.resources
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.Properties.Resources.resources
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.csproj.GenerateResource.Cache
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.exe
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.pdb
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.Form3.resources
+C:\Users\TRUONGVY\documents\visual studio 2015\Projects\NguyenVyTruong_QLTG\NguyenVyTruong_QLTG\obj\Debug\NguyenVyTruong_QLTG.Form4.resources
